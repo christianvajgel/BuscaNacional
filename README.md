@@ -1,7 +1,9 @@
-# Vue 3 + Vite
+# PITCH DO YOUTUBE
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Este README.md foi editado 20/04/2024 09:55 AM para adicionar somente o link do Pitch que não está listado no YouTube. 
 
-## Recommended IDE Setup
+O motivo da edição foi para contornar o problema com o upload dos arquivos na pasta do Google Drive disponibilizado pela organização do evento.
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+Ressalta-se que NENHUM outro conteúdo (além desse README.md) foi alterado, podendo o mesmo ser comprovado verificando o histórico de commits do repositório em questão.
+
+- [YouTube - PITCH -  HackatAN - Equipe 441 - Projeto Busca Nacional](https://www.youtube.com/watch?v=kb9ETWPNHuk)
